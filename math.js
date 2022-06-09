@@ -23,7 +23,7 @@ console.log(soma(4,2))
 
 
 module.exports = {
-    soma,
+    soma ,
     subtracao,
     divisao,
     multiplicacao
